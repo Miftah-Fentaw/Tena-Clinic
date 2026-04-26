@@ -242,7 +242,7 @@ Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful 
 
 ### 📜 Original Template Credit
 
-<p align="left">
+<p align="lefte">
   <strong>Template:</strong> Clinic Bootstrap Template<br>
   <strong>By:</strong> <a href="https://bootstrapmade.com/">BootstrapMade.com</a><br>
   <strong>License:</strong> <a href="https://bootstrapmade.com/license/">MIT</a>
