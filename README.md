@@ -215,10 +215,10 @@ Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful 
 **Tena Clinic** is developed and maintained by **Miftah** - a passionate web developer based in Ethiopia.
 
 <p align="center">
-  <a href="https://github.com/miftah">
+  <a href="https://github.com/miftah-fentaw">
     <img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
   </a>
-  <a href="https://linkedin.com/in/miftah">
+  <a href="https://linkedin.com/in/miftah-fentaw">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
 </p>
