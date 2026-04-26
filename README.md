@@ -204,17 +204,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👏 Credits
 
-| Resource | Link |
-|----------|------|
-| Template | [Clinic Bootstrap Template](https://bootstrapmade.com/clinic-bootstrap-template/) |
-| Framework | [Bootstrap](https://getbootstrap.com/) |
-| Animations | [AOS](https://michalsnik.github.io/aos/) |
-| Lightbox | [GLightbox](https://biati.gitlab.io/glightbox/) |
-| Icons | [Font Awesome](https://fontawesome.com/) |
-| Slider | [Swiper](https://swiper.js.org/) |
-| Counter | [PureCounter](https://www.npmjs.com/package/purecounter) |
-
-Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful template design.
+Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful inspiration template design.
 
 ---
 
@@ -236,16 +226,6 @@ Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ in Ethiopia 🇪🇹</strong>
-</p>
-
-<p align="center">
-  <em>Your Health, Our Priority.</em>
-</p>
-
----
-
-<p align="center">
   <a href="https://tenaclinic.et">🌐 Visit Website</a> •
   <a href="mailto:info@tenaclinic.et">📧 Contact</a> •
   <a href="https://instagram.com/tenaclinic">📸 Instagram</a> •
@@ -256,4 +236,20 @@ Special thanks to [BootstrapMade](https://bootstrapmade.com/) for the wonderful 
 
 <p align="center">
   <sub>© 2024-2026 Tena Clinic. All rights reserved.</sub>
+</p>
+
+---
+
+### 📜 Original Template Credit
+
+<p align="center">
+  <strong>Template:</strong> Clinic Bootstrap Template<br>
+  <strong>By:</strong> <a href="https://bootstrapmade.com/">BootstrapMade.com</a><br>
+  <strong>License:</strong> <a href="https://bootstrapmade.com/license/">MIT</a>
+</p>
+
+---
+
+<p align="center">
+  <em>This README and the website modifications were made by <strong>Miftah</strong>. The original template design is by BootstrapMade.</em>
 </p>
